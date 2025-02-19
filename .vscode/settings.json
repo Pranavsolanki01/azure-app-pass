@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4fdd5def-27aa-486d-8692-52141f9431b3/resourceGroups/az-group-web2/providers/Microsoft.Web/sites/az-webapp-pranav"
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-app-pass", "azure-app-pass.csproj", "{CDCBC5E4-C6F9-4CC6-AFD6-4A8C08B858C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCBC5E4-C6F9-4CC6-AFD6-4A8C08B858C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCBC5E4-C6F9-4CC6-AFD6-4A8C08B858C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCBC5E4-C6F9-4CC6-AFD6-4A8C08B858C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCBC5E4-C6F9-4CC6-AFD6-4A8C08B858C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B13CF8-B98C-4251-950D-9A1AACE9CF6B}
+	EndGlobalSection
+EndGlobal
